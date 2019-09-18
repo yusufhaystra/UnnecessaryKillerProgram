@@ -3,7 +3,7 @@ A program that shuts down all programs and services that we do not use with a si
 
 Running the "Program Killer Setup.msi" file is sufficient for installation.
 
-> At first boot, it asks your e-mail address for a one-time. Once you have verified this e-mail address, you can enjoy all the features of the program completely free of charge forever.
+> You can enjoy all the features of the program completely free of charge forever.
 
 -------------------------------------------------------------------------------------------------------
 
