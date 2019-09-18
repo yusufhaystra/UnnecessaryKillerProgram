@@ -11,11 +11,14 @@ Running the "Program Killer Setup.msi" file is sufficient for installation.
 In the "Main Operations" section, the selected services and programs are closed quickly with a single keystroke.
 In the "Other Settings" section, you can request that the program be opened when the computer is turned on.
 
+![oto-manuel kapatgosterimi](https://user-images.githubusercontent.com/36541960/65151307-82d72780-da2e-11e9-96be-06730b273b74.PNG)
+
+
 ![Ekran Alıntısı4](https://user-images.githubusercontent.com/36541960/61123184-5f32b680-a4ac-11e9-9284-db55906a1631.PNG)
 > In the "Add Program" section, you can add or remove programs that you find unnecessary either automatically or manually.
 
 ![Ekran Alıntısı5](https://user-images.githubusercontent.com/36541960/61123175-5e018980-a4ac-11e9-8170-699d6b2b9e84.PNG)
 > In the "Add Service" section, you can add or close services that you do not want to run. 
 
-![Ekran Alıntısı6](https://user-images.githubusercontent.com/36541960/61123177-5e9a2000-a4ac-11e9-901a-d6ae2daffa51.PNG)
+![son bolum](https://user-images.githubusercontent.com/36541960/65151420-bfa31e80-da2e-11e9-8ea1-7db31750f979.PNG)
 > If you have problems or you want to give feedback: Please contact me at "Help and Feedback" section.
