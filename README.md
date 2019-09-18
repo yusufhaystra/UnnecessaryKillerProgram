@@ -12,7 +12,7 @@ In the "Main Operations" section, the selected services and programs are closed 
 In the "Other Settings" section, you can request that the program be opened when the computer is turned on.
 
 ![oto-manuel kapatgosterimi](https://user-images.githubusercontent.com/36541960/65151307-82d72780-da2e-11e9-96be-06730b273b74.PNG)
-
+With New Release, You are Protected every time by this program from Unnecessary Programs.
 
 ![Ekran Alıntısı4](https://user-images.githubusercontent.com/36541960/61123184-5f32b680-a4ac-11e9-9284-db55906a1631.PNG)
 > In the "Add Program" section, you can add or remove programs that you find unnecessary either automatically or manually.
