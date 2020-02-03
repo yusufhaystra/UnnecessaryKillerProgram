@@ -13,11 +13,11 @@ Running the "Program Killer Setup.msi" file is sufficient for installation.
 
 
 ![3](https://user-images.githubusercontent.com/36541960/73697990-0305dd00-46f1-11ea-9534-40479a36c3a2.PNG)
-> You can easily learn unnecessary programs and services in your background by hovering mouse
+ You can easily learn unnecessary programs and services in your background by hovering mouse
 
 
 ![4](https://user-images.githubusercontent.com/36541960/73697991-0305dd00-46f1-11ea-9716-b40d999a3aaa.PNG)
-> When you pushed the button, you can view Unnecessary Programs and Services which were closed.
+ When you pushed the button, you can view Unnecessary Programs and Services which were closed.
 
 
 ![5](https://user-images.githubusercontent.com/36541960/73697992-0305dd00-46f1-11ea-9914-2b9856f2b88d.PNG)
