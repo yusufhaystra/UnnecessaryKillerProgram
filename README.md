@@ -18,7 +18,7 @@ Running the "Program Killer Setup.msi" file is sufficient for installation.
 
 ![Ekran Alıntısı6](https://user-images.githubusercontent.com/36541960/76145053-fb8e7680-6096-11ea-9d55-5c7281ed2550.PNG)
 > With New Release, You are Protected every time by this program from Unnecessary Programs.
-> In this way, It controls the Unnecessary programs on every time. According to your request, it closes immediately the Unnecessary Programs or it waits your order for close the Unnecessary Programs. It is that Easy !
+> In this way, It controls the Unnecessary programs on every time. According to your request, it closes immediately the Unnecessary Programs or it waits your order to close the Unnecessary Programs. It is that Easy !
 
 
 ![10](https://user-images.githubusercontent.com/36541960/73697999-04370a00-46f1-11ea-8f9d-91040b9853a5.png)
